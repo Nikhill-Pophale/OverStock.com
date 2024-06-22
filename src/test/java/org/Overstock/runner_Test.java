@@ -8,11 +8,11 @@ import org.Overstock.Pages.Login_page;
 import org.Overstock.Pages.Product_Listing;
 
 import org.Overstock.Resources.prop;
-import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Test;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
